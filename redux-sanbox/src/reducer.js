@@ -1,6 +1,6 @@
 
 
-const reducer = (state = 0, action) => {
+const reducer = (state = 15, action) => {
 
     if(state === undefined){
         return 0;
